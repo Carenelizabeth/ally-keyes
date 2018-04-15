@@ -12,14 +12,23 @@ header{
 	text-align: center;
 }
 
-.home{
+.global-nav{
 	background-color: #3E2E5E;
 }
 
-.global-nav{
-	background-color: white;
+.global-nav a{
+	color: white;
 }
 
 .local-nav{
 	background-color: #B0ACB8;
+}
+
+.local-nav a{
+	color: #3E2E5E;
+}
+
+section{
+	padding-top: 20px;
+	padding-bottom: 20px;
 }
