@@ -11,3 +11,15 @@ header{
 .heading{
 	text-align: center;
 }
+
+.home{
+	background-color: #3E2E5E;
+}
+
+.global-nav{
+	background-color: white;
+}
+
+.local-nav{
+	background-color: #B0ACB8;
+}
