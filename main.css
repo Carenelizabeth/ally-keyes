@@ -33,8 +33,7 @@ section{
 	padding-bottom: 20px;
 }
 
-.video-placeholder{
-	height: 270px;
-	width: 480px;
-	background-color: black;
-}
+video-placeholder{
+	 width: 560px;
+	 height: 315px;	
+}	 background-color: black;
