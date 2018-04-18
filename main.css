@@ -28,6 +28,12 @@ header{
 	color: #3E2E5E;
 }
 
+.jumbotron{
+	padding: 0;
+	height: calc(100vh - 100px);
+	overflow: hidden;
+}
+
 section{
 	padding-top: 20px;
 	padding-bottom: 20px;
