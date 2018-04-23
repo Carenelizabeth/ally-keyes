@@ -101,7 +101,12 @@ section{
 img{
 	max-width: 480px;
 }
-video-placeholder{
+
+.gymnastics-thumbnail{
+	width: 90%
+}
+
+.video-placeholder{
 	 width: 560px;
 	 height: 315px;	
 	 background-color: black;
