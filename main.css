@@ -4,12 +4,17 @@ h1, h2{
 
 .intro-text{
 	position: absolute;
+	text-align: center;
 	bottom: 33%;
 	left: calc(50% - 90px);
 }
 
 .intro-text a{
 	color: white;
+}
+
+.intro-text p{
+	font-size: 24px;
 }
 
 h2{
