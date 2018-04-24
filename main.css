@@ -2,10 +2,14 @@ h1, h2{
 	font-family: 'Boogaloo', cursive;
 }
 
-h1{
+.intro-text{
 	position: absolute;
-	bottom: 66%;
+	bottom: 33%;
 	left: calc(50% - 90px);
+}
+
+.intro-text a{
+	color: white;
 }
 
 h2{
@@ -16,10 +20,8 @@ header{
 	background-color: #B0ACB8;
 }
 
-.placeholder{
-	height: 200px;
-	width: 200px;
-	background-color: #3E2E5E;
+.fa-angle-double-down{
+	font-size: 150px;
 }
 
 .navbar{
