@@ -5,8 +5,8 @@ h1, h2{
 .intro-text{
 	position: absolute;
 	text-align: center;
-	bottom: 33%;
-	left: calc(50% - 90px);
+	align-self: center;
+	padding-bottom: 200px;
 }
 
 .intro-text a{
@@ -23,16 +23,20 @@ h2{
 
 header{
 	background-color: #B0ACB8;
+	position: relative;
+	display: flex;
+	justify-content: center;
 }
 
 .fa-angle-double-down{
-	font-size: 150px;
+	font-size: 120px;
 }
 
 .navbar{
 	z-index: 1100;
 	background-color: rgba(0,0,0,.6);
 	height: 60px;
+	width: 100%;
 }
 
 ul{
