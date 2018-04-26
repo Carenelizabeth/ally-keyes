@@ -3,7 +3,7 @@ function handleScrollDown(){
         console.log('arrow clicked');
         $('html, body').animate({
             scrollTop: $('main').offset().top
-        }, 2000);
+        }, 1500);
     })
 }
 
