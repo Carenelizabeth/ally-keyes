@@ -21,13 +21,17 @@ h2{
 	color: #3E2E5E; 
 }
 
+.hidden{
+	display: none;
+}
+
 header{
 	position: relative;
 	display: flex;
 	justify-content: center;
 }
 
-.fa-angle-double-down{
+.fa-angle-down{
 	font-size: 120px;
 }
 
